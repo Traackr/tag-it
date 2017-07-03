@@ -1,5 +1,5 @@
 {
-  "name": "aehlke/tag-it",
+  "name": "Traackr/tag-it",
   "version": "1.0.0",
   "main": "js/tag-it.js",
   "description": "A jQuery UI plugin to handle multi-tag fields as well as tag suggestions/autocomplete.",
